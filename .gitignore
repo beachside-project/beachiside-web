@@ -1,3 +1,6 @@
+# VS
+.vscode
+
 # Logs
 logs
 *.log
@@ -90,6 +93,7 @@ dist
 
 # vuepress build output
 .vuepress/dist
+.src/assets
 
 # Serverless directories
 .serverless/
