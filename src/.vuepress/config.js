@@ -1,5 +1,5 @@
 module.exports = {
     title: 'BEACHSIDE.DEV',
-    base: '/beachside-web/',
+    base:'/',
     dest: 'docs/'
 }
