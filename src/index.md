@@ -1,17 +1,14 @@
 ---
 home: true
-heroText: Atsushi Yokohama | BEACHISDE.DEV
+heroText: Atsushi Yokohama BEACHISDE.DEV
 tagline: Hi, I'm Atsushi.
-footer: Copyright © 2019 Atsushi Yokohama
+footer: Copyright © 2021 Atsushi Yokohama
 search: false
 sidebar: false
 ---
 
 <Description/>
-
 <MvpLink/>
-
+<CertifiedLinks/>
 <SocialLinks/>
-
 <BlogLink/>
-

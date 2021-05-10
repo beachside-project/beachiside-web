@@ -2,7 +2,7 @@
   <div class="mvplink-wrapper">
     <a
       href="https://mvp.microsoft.com/ja-jp/PublicProfile/5002691?fullName=Atsushi%20Yokohama"
-      target="_brank"
+      target="_brank" rel="noopener"
     >
       <img
         src="images/MVP_Logo_Horizontal_Secondary_Blue288_CMYK_72ppi.png"
@@ -16,6 +16,6 @@
 <style>
 .mvplink-wrapper {
   text-align: center;
-  margin: 5rem 0;
+  margin: 3rem 0;
 }
 </style>
