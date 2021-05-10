@@ -11,4 +11,7 @@ module.exports = {
             }
         ]
     ],
+    themeConfig: {
+        sidebar: false
+      }
 }
