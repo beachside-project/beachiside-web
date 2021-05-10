@@ -1,6 +1,12 @@
 <template>
   <div class="bloglink-wrapper">
-    <a href="https://blog.beachside.dev/" class="bloglink" target="_blank">BEACHSIDE BLOG</a>
+    <a
+      href="https://blog.beachside.dev/"
+      class="bloglink"
+      target="_blank"
+      rel="noopener"
+      >BEACHSIDE BLOG</a
+    >
     <p>I mainly write about C #, ASP.NET Core and Azure.</p>
   </div>
 </template>

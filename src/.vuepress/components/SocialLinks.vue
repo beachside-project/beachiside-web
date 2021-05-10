@@ -2,13 +2,17 @@
   <div class="socialnav-wrapper">
     <ul class="socialnav-items">
       <li class="socialnav-item">
-        <a href="https://twitter.com/BEACH_SIDE" target="_blank">
+        <a href="https://twitter.com/BEACH_SIDE" target="_blank" rel="noopener">
           <font-awesome-icon :icon="['fab', 'twitter']" size="3x" />
         </a>
       </li>
 
       <li class="socialnav-item">
-        <a href="https://www.facebook.com/atsushi.yokohama?ref=bookmarks" target="_blank">
+        <a
+          href="https://www.facebook.com/atsushi.yokohama?ref=bookmarks"
+          target="_blank"
+          rel="noopener"
+        >
           <font-awesome-icon :icon="['fab', 'facebook']" size="3x" />
         </a>
       </li>
@@ -18,12 +22,20 @@
         </a>
       </li>
       <li class="socialnav-item">
-        <a href target="_blank">
+        <a
+          href="https://www.linkedin.com/in/atsushi-yokohama/"
+          target="_blank"
+          rel="noopener"
+        >
           <font-awesome-icon :icon="['fab', 'linkedin']" size="3x" />
         </a>
       </li>
       <li class="socialnav-item">
-        <a href="https://www.slideshare.net/ATSUSHIYOKOHAMA" target="_blank">
+        <a
+          href="https://www.slideshare.net/ATSUSHIYOKOHAMA"
+          target="_blank"
+          rel="noopener"
+        >
           <font-awesome-icon :icon="['fab', 'slideshare']" size="3x" />
         </a>
       </li>

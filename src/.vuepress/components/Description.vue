@@ -1,5 +1,7 @@
 <template>
-  <div class="description-wrapper">I'm Software Developer, Software Architect, Blogger, Speaker.</div>
+  <div class="description-wrapper">
+    I'm Software Developer, Software Architect, Blogger, Speaker.
+  </div>
 </template>
 
 <style>
