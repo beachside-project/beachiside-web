@@ -3,8 +3,11 @@ name: vuepress deploy
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: [main]
-  pull_request: [main]
+    branches:
+      - 'main'
+  pull_request:
+     branches:
+       - 'main'
   workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
