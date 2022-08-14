@@ -1,6 +1,3 @@
-# Custom
-docs/
-
 # VS
 .vscode
 
@@ -109,3 +106,5 @@ dist
 
 # TernJS port file
 .tern-port
+
+docs/
