@@ -1,4 +1,4 @@
-name: vuepress deploy
+name: Vuepress deploy
 
 on:
   # Runs on pushes targeting the default branch
