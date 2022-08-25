@@ -7,7 +7,7 @@
       rel="noopener"
       >BEACHSIDE BLOG</a
     >
-    <p>I mainly write about C #, ASP.NET Core and Azure.</p>
+    <p>I mainly write about C #, Azure and GitHub.</p>
   </div>
 </template>
 
