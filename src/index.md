@@ -9,6 +9,7 @@ sidebar: false
 
 <Description/>
 <MvpLink/>
-<CertifiedLinks/>
+<MicrosoftCertifiedLinks/>
+<GitHubCertiedLinks/>
 <SocialLinks/>
 <BlogLink/>
