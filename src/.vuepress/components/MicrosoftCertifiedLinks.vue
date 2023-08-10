@@ -1,7 +1,7 @@
 <template>
   <div class="cert-container">
     <a
-      href="https://www.credly.com/badges/9f223842-3af8-44f2-85a8-21f36dac4061"
+      href="https://learn.microsoft.com/ja-jp/users/beachside/credentials/3db9a677884c5902"
       target="_blank"
       rel="noopener"
     >
@@ -11,7 +11,7 @@
       />
     </a>
     <a
-      href="https://www.credly.com/badges/b3d87ca2-bec8-4fd7-b13b-83a50105df7e/public_url"
+      href="https://learn.microsoft.com/ja-jp/users/beachside/credentials/de3911608b9838a"
       target="_blank"
       rel="noopener"
     >
@@ -21,7 +21,7 @@
       />
     </a>
     <a
-      href="https://www.credly.com/badges/9a6afd6c-e984-46ad-b227-9bae1825557f"
+      href="https://learn.microsoft.com/ja-jp/users/beachside/credentials/8f0ac148832a223f"
       target="_blank"
       rel="noopener"
     >
@@ -31,7 +31,7 @@
       />
     </a>
     <a
-      href="https://www.credly.com/badges/6eaa69f9-e04a-4bec-8ef7-2d0bbfa56959"
+      href="https://learn.microsoft.com/ja-jp/users/beachside/credentials/445741fd4686bd60"
       target="_blank"
       rel="noopener"
     >
