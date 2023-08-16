@@ -6,7 +6,7 @@
       rel="noopener"
     >
       <img
-        src="https://images.credly.com/size/340x340/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png"
+        src="https://images.credly.com/size/340x340/images/a5e9bdf5-be98-4896-afd2-eff09e511667/image.png"
         alt="CERT image"
       />
     </a>
@@ -16,7 +16,7 @@
       rel="noopener"
     >
       <img
-        src="https://images.credly.com/size/340x340/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png"
+        src="https://images.credly.com/size/340x340/images/556afa03-8682-4e3a-9975-b588b7aa5ba0/image.png"
         alt="CERT image"
       />
     </a>
@@ -26,7 +26,7 @@
       rel="noopener"
     >
       <img
-        src="https://images.credly.com/size/340x340/images/9e11274d-1ac0-48c1-9d47-e72f16cd2e3d/image.png"
+        src="https://images.credly.com/size/340x340/images/ab23e6b1-d5ba-48ee-a3ba-71849e0ac637/image.png"
         alt="CERT image"
       />
     </a>
