@@ -6,7 +6,7 @@
       rel="noopener"
     >
       <img
-        src="https://images.credly.com/size/340x340/images/a5e9bdf5-be98-4896-afd2-eff09e511667/image.png"
+        src="images/github-administration.png"
         alt="CERT image"
       />
     </a>
@@ -16,7 +16,7 @@
       rel="noopener"
     >
       <img
-        src="https://images.credly.com/size/340x340/images/556afa03-8682-4e3a-9975-b588b7aa5ba0/image.png"
+        src="images/github-actions.png"
         alt="CERT image"
       />
     </a>
@@ -26,7 +26,7 @@
       rel="noopener"
     >
       <img
-        src="https://images.credly.com/size/340x340/images/ab23e6b1-d5ba-48ee-a3ba-71849e0ac637/image.png"
+        src="images/github-advanced-security.png"
         alt="CERT image"
       />
     </a>
