@@ -1,7 +1,7 @@
 <template>
   <div class="social-container">
     <a href="https://twitter.com/BEACH_SIDE" target="_blank" rel="noopener">
-      <font-awesome-icon :icon="['fab', 'twitter']" size="3x" />
+      <font-awesome-icon :icon="['fab', 'x-twitter']" size="3x" />
     </a>
     <a
       href="https://www.facebook.com/atsushi.yokohama?ref=bookmarks"
