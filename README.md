@@ -1,3 +1,3 @@
-# beachiside-web
+# BEACHSIDE DEV Profile site
 
-my profile site
+<https://beachside.dev/>
