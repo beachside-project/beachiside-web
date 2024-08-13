@@ -36,7 +36,6 @@ jobs:
           npm ci
           npm run build
           cp ads.txt dist/
-          cp CNAME dist/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
